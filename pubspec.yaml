@@ -1,7 +1,6 @@
 name: swipedetector
 description: A Flutter package to detect up, down, left, right swipes.
-version: 1.1.0
-author: Gurleen Sethi <sarusethi@rocketmail.com>
+version: 1.2.0
 homepage: http://www.github.com/gurleensethi
 
 dependencies:
